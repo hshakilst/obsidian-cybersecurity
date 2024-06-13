@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "1b73aebac853b3b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e11bb460e5f471d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc435063a8363645",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "37e65236aa833e07",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4c82e10ca1e1eaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e64c0735c1eb3d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "909495a74047bef7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f18d65974e972d1f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "11dbe54b7136e094",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "09de1c7d0b25c9b8",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212.5
+  },
+  "right": {
+    "id": "663e96ac454abf41",
+    "type": "split",
+    "children": [
+      {
+        "id": "b32e72f3aee67af7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2312cb9f68f05d46",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "786c6c0807673bcb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a79f7af93caebf50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          },
+          {
+            "id": "1e17914fd30f00c5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "287844eabd6323f4",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "0644993390138c92",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-day-planner:Timeline": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "dc435063a8363645",
+  "lastOpenFiles": [
+    "HTB Sherlocks/Bumblebee/Bumblebee - DFIR.md",
+    "HTB Sherlocks/Bumblebee/assets/Pasted image 20240613105158.png",
+    "HTB Sherlocks/Bumblebee/assets/Pasted image 20240613104708.png",
+    "HTB Sherlocks/Bumblebee/assets",
+    "HTB Sherlocks/Meerkat/Meerkat - SOC.md",
+    "HTB Sherlocks/Bumblebee/Bumblebee.md",
+    "HTB Sherlocks/Bumblebee",
+    "Home.md",
+    "Vault.md",
+    "Tags",
+    "Resources",
+    "Cheatsheets",
+    "HTB Sherlocks/HTB Sherlocks.md",
+    "HTB Machines",
+    "Templates",
+    "Daily Notes",
+    "2024-06-13.md",
+    "HTB Sherlocks/RogueOne/RogueOne - DFIR.md",
+    "2024-06-12.md",
+    "HTB Sherlocks/RogueOne/assets",
+    "HTB Sherlocks/Meerkat/Untitled",
+    "HTB Sherlocks/RogueOne/assets/Pasted image 20240611200132.png",
+    "HTB Sherlocks/Meerkat/assets/Pasted image 20240612181813.png",
+    "HTB Sherlocks/Meerkat/assets/Pasted image 20240612181638.png",
+    "HTB Sherlocks/Meerkat/assets/Pasted image 20240612181529.png",
+    "HTB Sherlocks/Meerkat/assets/Pasted image 20240612181452.png",
+    "HTB Sherlocks/Meerkat/assets/Pasted image 20240612180604.png",
+    "HTB Sherlocks/Meerkat/assets/Pasted image 20240612175559.png",
+    "HTB Sherlocks/Meerkat/assets/Pasted image 20240612174728.png",
+    "Untitled.canvas"
+  ]
+}
