@@ -13,7 +13,7 @@ All the Sherlocks I have solved on Hack The Box.
 
 ## Table of Contents
 
-| Sherlocks                     | Category | Type                                     | Difficulty | Created    | Expired |
-| ----------------------------- | -------- | ---------------------------------------- | ---------- | ---------- | ------- |
-| [[Meerkat - SOC\|Meerkat]]    | SOC      | #pcap #wireshark #siem #alerts #json #jq | Easy       | 06/11/2024 |         |
-| [[RogueOne - DFIR\|RogueOne]] | DFIR     | #memory #dump #volatility                | Easy       | 06/12/2024 |         |
+| Sherlocks                     | Category | Difficulty | Created    | Expired |
+| ----------------------------- | -------- | ---------- | ---------- | ------- |
+| [[Meerkat - SOC\|Meerkat]]    | SOC      | Easy       | 06/11/2024 |         |
+| [[RogueOne - DFIR\|RogueOne]] | DFIR     | Easy       | 06/12/2024 |         |
