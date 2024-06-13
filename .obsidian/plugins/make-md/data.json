@@ -40,10 +40,12 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//HTB Sherlocks/HTB Sherlocks/Bumblebee",
-    "//HTB Sherlocks/HTB Sherlocks/Meerkat",
-    "//HTB Sherlocks",
-    "//HTB Sherlocks/HTB Sherlocks/RogueOne"
+    "/",
+    "//HTB Machines",
+    "//Daily Notes",
+    "//Cheatsheets",
+    "//Tags",
+    "//Resources"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

@@ -23,5 +23,6 @@
   "make-md",
   "obsidian-checklist-plugin",
   "obsidian-git",
-  "obsidian-tagfolder"
+  "obsidian-tagfolder",
+  "waypoint"
 ]

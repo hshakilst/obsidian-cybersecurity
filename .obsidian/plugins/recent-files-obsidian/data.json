@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "HTB Sherlocks",
-      "path": "HTB Sherlocks/HTB Sherlocks.md"
-    },
-    {
       "basename": "Bumblebee - DFIR",
       "path": "HTB Sherlocks/Bumblebee/Bumblebee - DFIR.md"
+    },
+    {
+      "basename": "HTB Sherlocks",
+      "path": "HTB Sherlocks/HTB Sherlocks.md"
     },
     {
       "basename": "RogueOne - DFIR",
@@ -15,10 +15,6 @@
     {
       "basename": "Meerkat - SOC",
       "path": "HTB Sherlocks/Meerkat/Meerkat - SOC.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     }
   ],
   "omittedPaths": []
