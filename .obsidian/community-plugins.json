@@ -22,5 +22,6 @@
   "nldates-obsidian",
   "make-md",
   "obsidian-checklist-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-tagfolder"
 ]

@@ -10,6 +10,7 @@ tags:
   - wireshark
   - jq
   - forensic
+  - exploit
 aliases:
   - Meerkat
 date: 2024-06-12

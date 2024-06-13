@@ -7,6 +7,7 @@ tags:
   - dump
   - volatility
   - forensic
+  - malware
 aliases:
   - RogueOne
 date: 2024-06-11T15:18:00

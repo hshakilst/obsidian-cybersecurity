@@ -40,11 +40,10 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//Tags",
-    "/",
-    "//HTB Sherlocks",
     "//HTB Sherlocks/HTB Sherlocks/Bumblebee",
-    "//HTB Sherlocks/HTB Sherlocks/Meerkat"
+    "//HTB Sherlocks/HTB Sherlocks/Meerkat",
+    "//HTB Sherlocks",
+    "//HTB Sherlocks/HTB Sherlocks/RogueOne"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
