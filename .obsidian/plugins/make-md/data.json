@@ -45,7 +45,12 @@
     "//Daily Notes",
     "//Cheatsheets",
     "//Tags",
-    "//Resources"
+    "//Resources",
+    "//HTB Sherlocks",
+    "//HTB Sherlocks/HTB Sherlocks/RogueOne",
+    "//HTB Sherlocks/HTB Sherlocks/Logjammer",
+    "//HTB Sherlocks/HTB Sherlocks/Meerkat",
+    "//HTB Sherlocks/HTB Sherlocks/Bumblebee"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
