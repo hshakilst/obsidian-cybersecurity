@@ -41,8 +41,6 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//HTB Machines",
-    "//Daily Notes",
     "//Tags",
     "//Resources",
     "//HTB Sherlocks",
@@ -50,7 +48,8 @@
     "//Cheatsheets",
     "//HTB Sherlocks/HTB Sherlocks/RogueOne/HTB Sherlocks/RogueOne/assets",
     "//HTB Sherlocks/HTB Sherlocks/Meerkat",
-    "//HTB Sherlocks/HTB Sherlocks/Meerkat/HTB Sherlocks/Meerkat/assets"
+    "//HTB Sherlocks/HTB Sherlocks/Meerkat/HTB Sherlocks/Meerkat/assets",
+    "//Resources/Resources/Forensics"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

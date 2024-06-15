@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Fragility - DFIR",
+      "path": "HTB Sherlocks/Fragility - DFIR.md"
+    },
+    {
+      "basename": "Time",
+      "path": "Resources/Forensics/Time.md"
+    },
+    {
+      "basename": "splunk",
+      "path": "Resources/splunk.pdf"
+    },
+    {
+      "basename": "Logjammer - DFIR",
+      "path": "HTB Sherlocks/Logjammer - DFIR.md"
+    },
+    {
       "basename": "Meerkat - SOC",
       "path": "HTB Sherlocks/Meerkat - SOC.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "Bumblebee - DFIR",
       "path": "HTB Sherlocks/Bumblebee - DFIR.md"
-    },
-    {
-      "basename": "Logjammer - DFIR",
-      "path": "HTB Sherlocks/Logjammer - DFIR.md"
     },
     {
       "basename": "Home",

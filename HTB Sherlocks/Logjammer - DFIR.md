@@ -8,6 +8,13 @@ tags:
   - python-evtx
   - log
   - event
+  - zimmerman-tools
+  - evtxecmd
+  - powershell-event
+  - windows-defender-event
+  - firewall-event
+  - system-event
+  - security-event
 date: 2024-06-13
 ---
 ### Scenario
