@@ -13,7 +13,10 @@ tags:
 An external contractor has accessed the internal forum here at Forela via the Guest Wi-Fi, and they appear to have stolen credentials for the administrative user! We have attached some logs from the forum and a full database dump in sqlite3 format to help you in your investigation.
 
 ### Artifacts
-![![HTB Sherlocks/Bumblebee/#*Table]]
+|Artifact|MD5 Hash|Password|
+|----|----|----|
+|bumblebee.zip|ba06e26779ead4b6299b6a188d11fc02|hackthebkue|
+|incident.tgz|1b301c2fb2a1232758aca31588506edf|n/a|
 
 ### Tools Used
 + SQLite Browser - For `phpbb.sqlite3` database analysis.

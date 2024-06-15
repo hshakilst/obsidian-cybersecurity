@@ -43,14 +43,14 @@
     "/",
     "//HTB Machines",
     "//Daily Notes",
-    "//Cheatsheets",
     "//Tags",
     "//Resources",
     "//HTB Sherlocks",
     "//HTB Sherlocks/HTB Sherlocks/RogueOne",
-    "//HTB Sherlocks/HTB Sherlocks/Logjammer",
+    "//Cheatsheets",
+    "//HTB Sherlocks/HTB Sherlocks/RogueOne/HTB Sherlocks/RogueOne/assets",
     "//HTB Sherlocks/HTB Sherlocks/Meerkat",
-    "//HTB Sherlocks/HTB Sherlocks/Bumblebee"
+    "//HTB Sherlocks/HTB Sherlocks/Meerkat/HTB Sherlocks/Meerkat/assets"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

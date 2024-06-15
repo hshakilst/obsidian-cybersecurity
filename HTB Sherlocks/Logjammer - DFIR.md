@@ -14,7 +14,14 @@ date: 2024-06-13
 You have been presented with the opportunity to work as a junior DFIR consultant for a big consultancy. However, they have provided a technical assessment for you to complete. The consultancy Forela-Security would like to gauge your Windows Event Log Analysis knowledge. We believe the Cyberjunkie user logged in to his computer and may have taken malicious actions. Please analyze the given event logs and report back.
 
 ### Artifacts
-![![HTB Sherlocks/Logjammer/#*Table]]
+| Name                                         | MD5 Hash                         | Password    |
+| -------------------------------------------- | -------------------------------- | ----------- |
+| logjammer.zip                                | 2ba794c406aee485186a959c840125af | hacktheblue |
+| Event-Logs/Powershell-Operational.evtx       | 6739802c74adc7bf6432dfcec853397c | n/a         |
+| Event-Logs/Security.evtx                     | 5b75f867d2107d04721ccaeea7914cfd | n/a         |
+| Event-Logs/System.evtx                       | 34b0d7a505c880a8ae78405d581b2b1a | n/a         |
+| Event-Logs/Windows Defender-Operational.evtx | a2f06faad866ac054705643b0e2c2364 | n/a         |
+| Event-Logs/Windows Firewall-Firewall.evtx    | 7ff34616822baa259a8179ed3677173a | n/a         |
 
 ### Tools
 + [evtx_dump](https://github.com/omerbenamram/EVTX): For dumping the evtx file.

@@ -20,8 +20,11 @@ date: 2024-06-12
 As a fast-growing startup, Forela has been utilising a business management platform. Unfortunately, our documentation is scarce, and our administrators aren't the most security aware. As our new security provider we'd like you to have a look at some PCAP and log data we have exported to confirm if we have (or have not) been compromised.
 
 ### Artifacts
-+ `meerkat-alerts.json:md5sum:f9642326d526c4f5159470b1c5d89b4a`: A SIEM alerts log file in JSON format.
-+ `meerkat.pcap:md5sum:7ac62b1e835e0850104f1fc2ecf1f002`: A PCAP file.
+| Artifact            | MD5 Hash                         | Password    |
+| ------------------- | -------------------------------- | ----------- |
+| meerkat.zip         | 9b8369a0fcd7f95889c28da597951ad3 | hacktheblue |
+| meerkat-alerts.json | f9642326d526c4f5159470b1c5d89b4a | n/a         |
+| meerkat.pcap        | 7ac62b1e835e0850104f1fc2ecf1f002 | n/a         |
 
 ### Tools Used
 + `jq` JSON parser - Analyzing the JSON file.

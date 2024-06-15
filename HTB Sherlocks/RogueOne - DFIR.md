@@ -18,9 +18,11 @@ date: 2024-06-11T15:18:00
 Your SIEM system generated multiple alerts in less than a minute, indicating potential C2 communication from Simon Stark's workstation. Despite Simon not noticing anything unusual, the IT team had him share screenshots of his task manager to check for any unusual processes. No suspicious processes were found, yet alerts about C2 communications persisted. The SOC manager then directed the immediate containment of the workstation and a memory dump for analysis. As a memory forensics expert, you are tasked with assisting the SOC team at Forela to investigate and resolve this urgent incident.
 
 ### Artifacts
+|Artifact|MD5 Hash|Password|
+|----|----|----|
+|RogueOne.zip|5810aa928e827d5ab8373aa4e1107572|hacktheblue|
+|220230810.mem|d34ed786f888c1da061399df6cbe9d7b|n/a|
 
-+ `RogueOne.zip:md5sum:5810aa928e827d5ab8373aa4e1107572`
-+ A memory dump file `20230810.mem:md5sum:d34ed786f888c1da061399df6cbe9d7b`.
 
 ### Tools
 
