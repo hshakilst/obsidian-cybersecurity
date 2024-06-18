@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Editorial - Linux",
-      "path": "HTB Machines/Editorial - Linux.md"
+      "basename": "Fragility - DFIR",
+      "path": "HTB Sherlocks/Fragility - DFIR.md"
     },
     {
       "basename": "Meerkat - SOC",
       "path": "HTB Sherlocks/Meerkat - SOC.md"
+    },
+    {
+      "basename": "RogueOne - DFIR",
+      "path": "HTB Sherlocks/RogueOne - DFIR.md"
     },
     {
       "basename": "Logjammer - DFIR",
@@ -17,12 +21,12 @@
       "path": "HTB Sherlocks/Bumblebee - DFIR.md"
     },
     {
-      "basename": "Home",
-      "path": "Home.md"
+      "basename": "Editorial - Linux",
+      "path": "HTB Machines/Editorial - Linux.md"
     },
     {
-      "basename": "Fragility - DFIR",
-      "path": "HTB Sherlocks/Fragility - DFIR.md"
+      "basename": "Home",
+      "path": "Home.md"
     },
     {
       "basename": "Time",
@@ -31,10 +35,6 @@
     {
       "basename": "splunk",
       "path": "Resources/splunk.pdf"
-    },
-    {
-      "basename": "RogueOne - DFIR",
-      "path": "HTB Sherlocks/RogueOne - DFIR.md"
     },
     {
       "basename": "HTB Sherlocks",

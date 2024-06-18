@@ -1,5 +1,19 @@
 ---
-tags: 
+tags:
+  - htb
+  - sherlock
+  - dfir
+  - pcap
+  - file-system
+  - wireshark
+  - log
+  - splunk
+  - exploit
+  - cve--2023-46214
+  - cryptography
+  - reverse-engineering
+  - file-recovery
+  - linux
 date: 2024-06-15
 ---
 ### Scenario

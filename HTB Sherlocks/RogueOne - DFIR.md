@@ -8,6 +8,7 @@ tags:
   - volatility
   - forensic
   - malware
+  - windows
 aliases:
   - RogueOne
 date: 2024-06-11T15:18:00

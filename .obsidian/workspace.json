@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB Machines/Editorial - Linux.md",
+                "file": "HTB Sherlocks/Fragility - DFIR.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB Machines/Editorial - Linux.md",
+                "file": "HTB Sherlocks/Fragility - DFIR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB Machines/Editorial - Linux.md"
+                "file": "HTB Sherlocks/Fragility - DFIR.md"
               }
             }
           },
@@ -209,20 +209,21 @@
   },
   "active": "fc94e66f27336ec9",
   "lastOpenFiles": [
+    "HTB Sherlocks/Meerkat - SOC.md",
+    "HTB Sherlocks/RogueOne - DFIR.md",
+    "HTB Sherlocks/Fragility - DFIR.md",
+    "HTB Sherlocks/Logjammer - DFIR.md",
+    "HTB Sherlocks/Bumblebee - DFIR.md",
     "HTB Machines/Editorial - Linux.md",
     "HTB Machines/assets/Editorial.png",
     "HTB Machines/assets/Pasted image 20240618181004.png",
     "HTB Machines/assets/Pasted image 20240618180158.png",
     "HTB Machines/assets/Pasted image 20240618174809.png",
     "HTB Machines/assets/Pasted image 20240618083237.png",
-    "HTB Sherlocks/Meerkat - SOC.md",
-    "HTB Sherlocks/Logjammer - DFIR.md",
-    "HTB Sherlocks/Bumblebee - DFIR.md",
     "HTB Machines/assets/Pasted image 20240618081128.png",
     "HTB Machines/assets/Pasted image 20240618081046.png",
     "HTB Machines/assets",
     "Home.md",
-    "HTB Sherlocks/Fragility - DFIR.md",
     "HTB Sherlocks/assets/Pasted image 20240615182843.png",
     "HTB Sherlocks/assets/Pasted image 20240615182506.png",
     "HTB Sherlocks/assets/Pasted image 20240615181906.png",
@@ -230,7 +231,6 @@
     "Resources/splunk.pdf",
     "Resources/Forensics/Forensics.md",
     "Resources/Forensics/volatility.pdf",
-    "HTB Sherlocks/RogueOne - DFIR.md",
     "HTB Sherlocks/HTB Sherlocks.md",
     "HTB Sherlocks/Bumblebee.md",
     "HTB Sherlocks/Logjammer.md",

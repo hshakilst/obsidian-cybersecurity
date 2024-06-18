@@ -11,6 +11,7 @@ tags:
   - jq
   - forensic
   - exploit
+  - linux
 aliases:
   - Meerkat
 date: 2024-06-12
