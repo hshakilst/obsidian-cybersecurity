@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "splunk",
+      "path": "Resources/Forensics/splunk.pdf"
+    },
+    {
+      "basename": "Forensics",
+      "path": "Resources/Forensics/Forensics.md"
+    },
+    {
+      "basename": "Windows Event Logs",
+      "path": "Resources/Forensics/Windows Event Logs.md"
+    },
+    {
+      "basename": "volatility",
+      "path": "Resources/Forensics/volatility.pdf"
+    },
+    {
+      "basename": "Time",
+      "path": "Resources/Forensics/Time.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Vault",
+      "path": "Vault.md"
+    },
+    {
+      "basename": "Editorial - Linux",
+      "path": "HTB Machines/Editorial - Linux.md"
+    },
+    {
       "basename": "Fragility - DFIR",
       "path": "HTB Sherlocks/Fragility - DFIR.md"
     },
@@ -21,32 +53,12 @@
       "path": "HTB Sherlocks/Meerkat - SOC.md"
     },
     {
-      "basename": "Editorial - Linux",
-      "path": "HTB Machines/Editorial - Linux.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
-      "basename": "Time",
-      "path": "Resources/Forensics/Time.md"
-    },
-    {
-      "basename": "splunk",
-      "path": "Resources/splunk.pdf"
-    },
-    {
       "basename": "HTB Sherlocks",
       "path": "HTB Sherlocks/HTB Sherlocks.md"
     },
     {
       "basename": "Pasted image 20240612181813",
       "path": "HTB Sherlocks/assets/Pasted image 20240612181813.png"
-    },
-    {
-      "basename": "Windows Event Logs",
-      "path": "Resources/Forensics/Windows/Windows Event Logs.md"
     }
   ],
   "omittedPaths": []

@@ -40,18 +40,16 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
-    "//Tags",
-    "//Resources",
-    "//HTB Sherlocks",
     "//HTB Sherlocks/HTB Sherlocks/RogueOne",
     "//Cheatsheets",
     "//HTB Sherlocks/HTB Sherlocks/RogueOne/HTB Sherlocks/RogueOne/assets",
     "//HTB Sherlocks/HTB Sherlocks/Meerkat",
     "//HTB Sherlocks/HTB Sherlocks/Meerkat/HTB Sherlocks/Meerkat/assets",
     "//Resources/Resources/Forensics",
-    "//HTB Machines",
-    "//HTB Machines/HTB Machines/assets"
+    "//HTB Machines/HTB Machines/assets",
+    "//Tags",
+    "/",
+    "spaces://$tags"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
