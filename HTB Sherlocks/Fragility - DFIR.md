@@ -9,7 +9,7 @@ tags:
   - log
   - splunk
   - exploit
-  - cve--2023-46214
+  - cve-2023-46214
   - cryptography
   - reverse-engineering
   - file-recovery

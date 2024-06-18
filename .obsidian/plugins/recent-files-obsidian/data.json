@@ -5,20 +5,20 @@
       "path": "HTB Sherlocks/Fragility - DFIR.md"
     },
     {
-      "basename": "Meerkat - SOC",
-      "path": "HTB Sherlocks/Meerkat - SOC.md"
-    },
-    {
       "basename": "RogueOne - DFIR",
       "path": "HTB Sherlocks/RogueOne - DFIR.md"
+    },
+    {
+      "basename": "Bumblebee - DFIR",
+      "path": "HTB Sherlocks/Bumblebee - DFIR.md"
     },
     {
       "basename": "Logjammer - DFIR",
       "path": "HTB Sherlocks/Logjammer - DFIR.md"
     },
     {
-      "basename": "Bumblebee - DFIR",
-      "path": "HTB Sherlocks/Bumblebee - DFIR.md"
+      "basename": "Meerkat - SOC",
+      "path": "HTB Sherlocks/Meerkat - SOC.md"
     },
     {
       "basename": "Editorial - Linux",
