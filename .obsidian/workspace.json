@@ -11,10 +11,8 @@
             "id": "c745d788b9973d9b",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "spaces://$tags"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -182,20 +180,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c745d788b9973d9b",
+  "active": "09de1c7d0b25c9b8",
   "lastOpenFiles": [
+    "Home.md",
+    "Tags",
     "Resources/Forensics/splunk.pdf",
     "Resources/Forensics/Forensics.md",
     "Resources/Forensics/Windows Event Logs.md",
     "Resources/Forensics/volatility.pdf",
     "Resources/Forensics/Time.md",
-    "Home.md",
     "Vault.md",
     "Tags/Tags.md",
     "Tags/Tags",
     "TagsTags/TagsTags.md",
     "Untitled.canvas",
-    "Tags",
     "TagsTags",
     "Untitled.md",
     "HTB Machines/Editorial - Linux.md",

@@ -47,9 +47,8 @@
     "//HTB Sherlocks/HTB Sherlocks/Meerkat/HTB Sherlocks/Meerkat/assets",
     "//Resources/Resources/Forensics",
     "//HTB Machines/HTB Machines/assets",
-    "//Tags",
     "/",
-    "spaces://$tags"
+    "//Tags"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
