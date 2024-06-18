@@ -49,7 +49,9 @@
     "//HTB Sherlocks/HTB Sherlocks/RogueOne/HTB Sherlocks/RogueOne/assets",
     "//HTB Sherlocks/HTB Sherlocks/Meerkat",
     "//HTB Sherlocks/HTB Sherlocks/Meerkat/HTB Sherlocks/Meerkat/assets",
-    "//Resources/Resources/Forensics"
+    "//Resources/Resources/Forensics",
+    "//HTB Machines",
+    "//HTB Machines/HTB Machines/assets"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -58,7 +60,9 @@
   "folderContextFile": "context",
   "folderFrameFile": "frames",
   "spacesFolder": "Tags",
-  "hiddenFiles": [],
+  "hiddenFiles": [
+    "HTB Machines/assets/Editorial.png"
+  ],
   "hiddenExtensions": [
     ".mdb",
     "_assets",

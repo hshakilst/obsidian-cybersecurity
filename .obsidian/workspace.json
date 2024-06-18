@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6a0e93b31d8273ae",
+        "id": "b7d65cf32f470564",
         "type": "tabs",
         "children": [
           {
-            "id": "236fd87a4ab2419c",
+            "id": "fc94e66f27336ec9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB Sherlocks/Fragility - DFIR.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce316386fdca8b1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Forensics/Time.md",
+                "file": "HTB Machines/Editorial - Linux.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB Sherlocks/Fragility - DFIR.md",
+                "file": "HTB Machines/Editorial - Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB Sherlocks/Fragility - DFIR.md"
+                "file": "HTB Machines/Editorial - Linux.md"
               }
             }
           },
@@ -220,32 +207,33 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "236fd87a4ab2419c",
+  "active": "fc94e66f27336ec9",
   "lastOpenFiles": [
+    "HTB Machines/Editorial - Linux.md",
+    "HTB Machines/assets/Editorial.png",
+    "HTB Machines/assets/Pasted image 20240618181004.png",
+    "HTB Machines/assets/Pasted image 20240618180158.png",
+    "HTB Machines/assets/Pasted image 20240618174809.png",
+    "HTB Machines/assets/Pasted image 20240618083237.png",
+    "HTB Sherlocks/Meerkat - SOC.md",
+    "HTB Sherlocks/Logjammer - DFIR.md",
+    "HTB Sherlocks/Bumblebee - DFIR.md",
+    "HTB Machines/assets/Pasted image 20240618081128.png",
+    "HTB Machines/assets/Pasted image 20240618081046.png",
+    "HTB Machines/assets",
+    "Home.md",
+    "HTB Sherlocks/Fragility - DFIR.md",
     "HTB Sherlocks/assets/Pasted image 20240615182843.png",
     "HTB Sherlocks/assets/Pasted image 20240615182506.png",
     "HTB Sherlocks/assets/Pasted image 20240615181906.png",
-    "HTB Sherlocks/assets/Pasted image 20240615181240.png",
-    "HTB Sherlocks/assets/Pasted image 20240615181116.png",
     "Resources/Forensics/Time.md",
-    "HTB Sherlocks/Fragility - DFIR.md",
-    "HTB Sherlocks/assets/Pasted image 20240615104930.png",
-    "HTB Sherlocks/assets/Pasted image 20240615094425.png",
-    "HTB Sherlocks/assets/Pasted image 20240615093617.png",
-    "HTB Sherlocks/assets/Pasted image 20240615093453.png",
-    "HTB Sherlocks/assets/Pasted image 20240615092924.png",
     "Resources/splunk.pdf",
     "Resources/Forensics/Forensics.md",
     "Resources/Forensics/volatility.pdf",
-    "HTB Sherlocks/Logjammer - DFIR.md",
-    "HTB Sherlocks/Meerkat - SOC.md",
     "HTB Sherlocks/RogueOne - DFIR.md",
-    "HTB Sherlocks/Bumblebee - DFIR.md",
-    "Home.md",
     "HTB Sherlocks/HTB Sherlocks.md",
     "HTB Sherlocks/Bumblebee.md",
     "HTB Sherlocks/Logjammer.md",
-    "HTB Sherlocks/assets/Pasted image 20240612181813.png",
     "HTB Sherlocks/RogueOne/RogueOne.md",
     "HTB Sherlocks/RogueOne/assets/assets.md",
     "HTB Sherlocks/Meerkat/assets/assets.md",
@@ -263,7 +251,6 @@
     "Vault.md",
     "Tags",
     "Resources",
-    "Cheatsheets",
     "2024-06-13.md",
     "2024-06-12.md",
     "Untitled.canvas"
