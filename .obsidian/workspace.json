@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ba965845f1ca5e10",
+        "id": "177f3bccdbe210db",
         "type": "tabs",
         "children": [
           {
-            "id": "c745d788b9973d9b",
+            "id": "10541edb81560494",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -188,12 +188,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c745d788b9973d9b",
+  "active": "10541edb81560494",
   "lastOpenFiles": [
+    "Home.md",
+    "HTB Sherlocks/Lockpick1 - Malware Analysis.md",
     "HTB Sherlocks/assets/Pasted image 20240619191644.png",
     "Resources/Forensics/jq - Cheatsheet.md",
-    "HTB Sherlocks/Lockpick1 - Malware Analysis.md",
-    "Home.md",
     "Tags",
     "Resources/Forensics/splunk.pdf",
     "Resources/Forensics/Forensics.md",
@@ -223,7 +223,6 @@
     "HTB Machines/assets",
     "HTB Sherlocks/assets/Pasted image 20240615182843.png",
     "HTB Sherlocks/assets/Pasted image 20240615182506.png",
-    "HTB Sherlocks/assets/Pasted image 20240615181906.png",
     "HTB Sherlocks/HTB Sherlocks.md",
     "HTB Sherlocks/Bumblebee.md",
     "HTB Sherlocks/Logjammer.md",
