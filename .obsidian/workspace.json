@@ -11,8 +11,13 @@
             "id": "c745d788b9973d9b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HTB Sherlocks/Lockpick1 - Malware Analysis.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HTB Sherlocks/Lockpick1 - Malware Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HTB Sherlocks/Lockpick1 - Malware Analysis.md"
+              }
             }
           },
           {
@@ -180,8 +188,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "09de1c7d0b25c9b8",
+  "active": "c745d788b9973d9b",
   "lastOpenFiles": [
+    "HTB Sherlocks/assets/Pasted image 20240619191644.png",
+    "Resources/Forensics/jq - Cheatsheet.md",
+    "HTB Sherlocks/Lockpick1 - Malware Analysis.md",
     "Home.md",
     "Tags",
     "Resources/Forensics/splunk.pdf",
@@ -225,8 +236,6 @@
     "Resources/Forensics/Windows",
     "Resources/Forensics",
     "HTB Sherlocks/Logjammer",
-    "HTB Sherlocks/Home.md",
-    "pininfo.md",
     "HTB Sherlocks/assets"
   ]
 }

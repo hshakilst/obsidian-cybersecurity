@@ -48,7 +48,8 @@
     "//Resources/Resources/Forensics",
     "//HTB Machines/HTB Machines/assets",
     "/",
-    "//Tags"
+    "//Tags",
+    "//HTB Sherlocks"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
