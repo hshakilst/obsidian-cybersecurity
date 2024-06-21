@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Lockpick1 - Malware Analysis",
-      "path": "HTB Sherlocks/Lockpick1 - Malware Analysis.md"
+      "basename": "Tracer - DFIR",
+      "path": "HTB Sherlocks/Tracer - DFIR.md"
+    },
+    {
+      "basename": "jq - Cheatsheet",
+      "path": "Resources/Forensics/jq - Cheatsheet.md"
+    },
+    {
+      "basename": "Windows Prefetch File",
+      "path": "Resources/Forensics/Windows Prefetch File.md"
+    },
+    {
+      "basename": "Windows UsnJournal",
+      "path": "Resources/Forensics/Windows UsnJournal.md"
+    },
+    {
+      "basename": "Windows Event Logs",
+      "path": "Resources/Forensics/Windows Event Logs.md"
     },
     {
       "basename": "Home",
       "path": "Home.md"
     },
     {
-      "basename": "jq - Cheatsheet",
-      "path": "Resources/Forensics/jq - Cheatsheet.md"
+      "basename": "Lockpick1 - Malware Analysis",
+      "path": "HTB Sherlocks/Lockpick1 - Malware Analysis.md"
     },
     {
       "basename": "splunk",
@@ -19,10 +35,6 @@
     {
       "basename": "Forensics",
       "path": "Resources/Forensics/Forensics.md"
-    },
-    {
-      "basename": "Windows Event Logs",
-      "path": "Resources/Forensics/Windows Event Logs.md"
     },
     {
       "basename": "volatility",

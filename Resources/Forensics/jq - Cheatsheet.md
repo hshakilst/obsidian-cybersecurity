@@ -141,6 +141,11 @@ jq 'min_by(.key)' data.json
 jq 'group_by(.key)' data.json
 ```
 
+### Find field values by regex
+```sh
+jq 'select(.field | test("<REGEX_STRING"))' data.json
+```
+
 ### Sort by a key
 ```sh
 jq 'sort_by(.key)' data.json
