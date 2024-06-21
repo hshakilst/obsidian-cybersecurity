@@ -87,7 +87,8 @@ $ cat 20240620051031_EvtxECmd_Output.json | jq '. | select(.TimeCreated >= "2023
 ```
 
 ### Summary
-In this Sherlock we explored the Usn Journal and heavily on Windows prefetch files. Also, a moderate understanding of PsExec commands was necessary to answer the task question. Finally, I included some resources to read about more those two above mentioned artifacts.  
+In this Sherlock we explored the Usn Journal and deep dived into Windows prefetch files. Also, a moderate understanding of PsExec commands was necessary to answer the task question. Finally, I included some resources to read about more those two above mentioned artifacts.
+
 ### References
 + [[Windows Prefetch File]]
 + [[Windows UsnJournal]]
