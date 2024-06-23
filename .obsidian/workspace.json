@@ -169,7 +169,7 @@
             }
           },
           {
-            "id": "f2688d8395d7caa8",
+            "id": "f9bfa00fe4b5ecb4",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -202,7 +202,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "17aeaf36cb395c20",
+  "active": "11dbe54b7136e094",
   "lastOpenFiles": [
     "HTB Sherlocks/assets/Pasted image 20240623072546.png",
     "Resources/Forensics/Windows Event Logs.md",
