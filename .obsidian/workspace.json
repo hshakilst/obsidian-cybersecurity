@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a0e1d3fb08864d16",
+        "id": "e690f8f9ee8a6a53",
         "type": "tabs",
         "children": [
           {
-            "id": "4883492489436b70",
+            "id": "538baafa7b0ea717",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d0fc814fc327b33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -188,15 +202,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4883492489436b70",
+  "active": "6d0fc814fc327b33",
   "lastOpenFiles": [
+    "Home.md",
+    "conflict-files-obsidian-git.md",
+    "HTB Machines/Axlle - Windows.md",
     "HTB Sherlocks/Mellitus - DFIR .md",
     "HTB Sherlocks/assets/Pasted image 20240623072546.png",
     "Resources/Forensics/Windows Event Logs.md",
     "HTB Sherlocks/Tracer - DFIR.md",
     "HTB Sherlocks/Lockpick1 - Malware Analysis.md",
     "HTB Sherlocks/Logjammer - DFIR.md",
-    "Home.md",
     "HTB Sherlocks/Meerkat - SOC.md",
     "HTB Sherlocks/assets/Pasted image 20240621073521.png",
     "Resources/Forensics/jq - Cheatsheet.md",
@@ -232,7 +248,6 @@
     "HTB Sherlocks/Bumblebee.md",
     "HTB Sherlocks/Logjammer.md",
     "HTB Sherlocks/RogueOne/RogueOne.md",
-    "HTB Sherlocks/RogueOne/assets/assets.md",
     "Resources/Forensics/Windows",
     "Resources/Forensics",
     "HTB Sherlocks/Logjammer"
