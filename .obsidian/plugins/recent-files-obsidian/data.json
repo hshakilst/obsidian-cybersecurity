@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Mellitus - DFIR ",
-      "path": "HTB Sherlocks/Mellitus - DFIR .md"
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Axlle - Windows",
+      "path": "HTB Machines/Axlle - Windows.md"
     },
     {
       "basename": "Windows Event Logs",
       "path": "Resources/Forensics/Windows Event Logs.md"
+    },
+    {
+      "basename": "Mellitus - DFIR ",
+      "path": "HTB Sherlocks/Mellitus - DFIR .md"
     },
     {
       "basename": "Tracer - DFIR",
@@ -19,10 +27,6 @@
     {
       "basename": "Logjammer - DFIR",
       "path": "HTB Sherlocks/Logjammer - DFIR.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Meerkat - SOC",
